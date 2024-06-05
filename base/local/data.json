@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "fecha": "2017-01-01",
+      "clima": "nublado",
+      "visibilidad": "poca",
+      "commentario": "No se puede volar"
+    },
+    {
+        "id": 2,
+        "fecha": "2017-04-01",
+        "clima": "soleado",
+        "visibilidad": "buena",
+        "commentario": "Dia soleado"
+    },
+    {
+        "id": 3,
+        "fecha": "2017-01-01",
+        "clima": "lluvioso",
+        "visibilidad": "regular",
+        "commentario": "LLovizna"
+    }
+]
